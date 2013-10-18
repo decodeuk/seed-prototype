@@ -1,0 +1,7 @@
+{
+  "name": "seed-prototype",
+  "version": "0.1.0",
+  "ignore": ["*.md", "package.json", ".bowerrc", "bower.json"],
+   "dependencies": {},
+   "devDependencies": {}
+}
